@@ -70,3 +70,10 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+/Dialogue System/Library
+/Dialogue System/Logs
+/Dialogue System/UserSettings
+/Dialogue System/Temp
+/Dialogue System/obj
+/Dialogue System/.vscode
+/Dialogue System/*.csproj
